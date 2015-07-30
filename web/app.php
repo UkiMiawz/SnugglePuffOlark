@@ -1,5 +1,6 @@
-<?php 
+<?php
 
+error_reporting(E_ALL);
 define('FACEBOOK_SDK_V4_SRC_DIR', '/FacebookSDK/src/Facebook/');
 require __DIR__ . '/FacebookSDK/autoload.php';
 
